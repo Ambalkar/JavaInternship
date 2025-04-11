@@ -1,0 +1,10 @@
+********** RECEIPT **********
+Chocolate x6 - Rs60.00
+Chips Packet x6 - Rs120.00
+Mountain dew x6 - Rs150.00
+----------------------------
+Subtotal: Rs330.00
+Tax (8%): Rs26.40
+Discount (10%): -Rs33.00
+Total: Rs323.40
+*****************************
