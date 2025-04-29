@@ -12,6 +12,9 @@ This repository contains a collection of mini-projects developed as part of my J
    - Location: [`Task2`](https://github.com/Ambalkar/JavaInternship/tree/task2)
    - Description: A command-line receipt generation program that calculates and displays itemized bills.
 
+3. **Contact Management System **
+   - Location: [`Task3`](https://github.com/Ambalkar/JavaInternship/tree/task3)
+
 ---
 
 ### 🔗 Repository Structure
@@ -21,6 +24,7 @@ JavaInternship/
   └── projects # Contains links to Task1 and Task2
 ├── Task1/ # ATM Interface project
 ├── Task2/ # Receipt Calculator project 
+├── Task3/ # Contact Management System
 
 
 ---
