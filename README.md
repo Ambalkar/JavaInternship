@@ -14,7 +14,7 @@ This repository contains a collection of mini-projects developed as part of my J
 
 3. **Contact Management System **
    - Location: [`Task3`](https://github.com/Ambalkar/JavaInternship/tree/task3)
-
+   - Description: A simple Java-based Contact Management System to add, view, and delete contact details with file-based data storage.
 ---
 
 ### 🔗 Repository Structure
